@@ -8,17 +8,16 @@
   <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+<br/>
+<br/>
 
-<br/>
-<br/>
 <p> 
 🤖 Junior Front-End Developer from Spain
   <br/>
 🚀 Currently learning new languages and technologies
-  
 </p>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 ### 📚 Languages I've studied
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
@@ -35,11 +34,12 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
-
 ### 🙋‍♂️ Connect with me
 📋 See my CV?  [![Linkedin Badge](https://img.shields.io/badge/-Iván%20Gonzalo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ivangonzaloromero/)](https://www.linkedin.com/in/ivangonzaloromero/)
 <br/>
 📬 Any message?  [![Gmail Badge](https://img.shields.io/badge/-igonzaloromero@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igonzaloromero@gmail.com)](mailto:igonzaloromero@gmail.com)
+
+<br/>
 
 <hr/>
 

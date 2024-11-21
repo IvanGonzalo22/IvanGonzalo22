@@ -12,7 +12,7 @@
 <br/>
 
 <p> 
-🤖 Junior Front-End Developer from Spain
+🤖 Junior Full-stack Developer from Spain
   <br/>
 🚀 Currently learning new languages and technologies
 </p>

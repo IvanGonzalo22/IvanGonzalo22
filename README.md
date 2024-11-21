@@ -19,19 +19,26 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
-### 📚 Languages I've studied
+### 📚 Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square)
-![SQL Developer](https://img.shields.io/badge/-SQL%20Developer-black?style=flat-square)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp&logoColor=white)
 
-### 🛠️ Technologies I've worked with
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+### 🛠️ Technologies
+![React+Vite](https://img.shields.io/badge/-React%2BVite-black?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![JUnit](https://img.shields.io/badge/-JUnit5-black?style=flat-square)
-![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-black?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Hangfire](https://img.shields.io/badge/-Hangfire-black?style=flat-square&logoColor=white)
+![Keycloak](https://img.shields.io/badge/-Keycloak-black?style=flat-square&logo=keycloak&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
 ### 🙋‍♂️ Connect with me

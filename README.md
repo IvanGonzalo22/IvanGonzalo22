@@ -16,10 +16,6 @@
 ✨ Full-stack developer based in Madrid, Spain
 <br/>
 🚀 Currently focused on my final degree project.
-<br>
-with a hands-on mindset and coding skills
-<br>
-to bring ideas to life. Check it out!
 </p>
 
 ### 📚 Languages
@@ -38,13 +34,14 @@ to bring ideas to life. Check it out!
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 <br>
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-black?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![ngrok](https://img.shields.io/badge/-ngrok-black?style=flat-square&logo=ngrok&logoColor=white)
 <br>
 ![Hangfire](https://img.shields.io/badge/-Hangfire-black?style=flat-square&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/-Keycloak-black?style=flat-square&logo=keycloak&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 <br>
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 

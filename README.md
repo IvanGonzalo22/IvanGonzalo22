@@ -16,8 +16,6 @@
 ✨ Full-stack developer based in Madrid, Spain
 <br/>
 🚀 Currently focused on my final degree project.
-<br/>
-View my repository here! [![Pick and Go](https://img.shields.io/badge/Final%20Project-Pick%20and%20Go-blue?style=flat-square&logo=github)](https://github.com/IvanGonzalo22/pick-and-go)
 </p>
 
 ### 📚 Languages

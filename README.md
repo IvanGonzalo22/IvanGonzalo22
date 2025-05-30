@@ -15,9 +15,9 @@
 <p> 
 ✨ Full-stack developer based in Madrid, Spain
 <br/>
-🚀 Currently focused on my final degree project:
+🚀 Currently focused on my final degree project.
 <br/>
-[Pick and Go](https://github.com/IvanGonzalo22/pick-and-go)
+View my repository here! 🔗 [View repository](https://github.com/IvanGonzalo22/pick-and-go)
 </p>
 
 ### 📚 Languages

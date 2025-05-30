@@ -15,7 +15,7 @@
 <p> 
 ✨ Full-stack developer based in Madrid, Spain
 <br/>
-🚀 Currently focused on my final degree project.
+🚀 Currently focused on my final degree project
 </p>
 
 ### 📚 Languages

@@ -1,21 +1,11 @@
-### Hi there! I'm [Iván](https://github.com/IvanGonzalo22) 👨‍💻
-
-<a href="https://www.linkedin.com/ivangonzaloromero/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="mailto:igonzaloromero@gmail.com">
-  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<br>
+### Hi there! I'm Iván 👨‍💻
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 <p> 
-✨ Full-stack developer based in Madrid, Spain
+✨ Full-stack developer based in Gżira, Malta
 <br/>
-🚀 Currently focused on my final degree project
+🚀 Currently focused on Backend development!
 </p>
 
 ### 🧠 Backend
@@ -48,9 +38,3 @@
 📋 See my CV?  [![Linkedin Badge](https://img.shields.io/badge/-Iván%20Gonzalo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ivangonzaloromero/)](https://www.linkedin.com/in/ivangonzaloromero/)
 <br/>
 📬 Any message?  [![Gmail Badge](https://img.shields.io/badge/-igonzaloromero@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igonzaloromero@gmail.com)](mailto:igonzaloromero@gmail.com)
-
-<br/>
-
-<hr/>
-
-🌠 From [IvanGonzalo22](https://github.com/IvanGonzalo22)

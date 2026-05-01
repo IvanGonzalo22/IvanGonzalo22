@@ -3,9 +3,9 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 <p> 
-✨ Full-stack developer based in Gżira, Malta
+✨ Backend developer based in Gżira, Malta
 <br/>
-🚀 Currently focused on Backend development!
+🚀 Experience in full-stack development, focused on clean code, databases and continuous improvement!
 </p>
 
 ### 🧠 Backend
@@ -35,6 +35,6 @@
 ![Git (Azure Repos)](https://img.shields.io/badge/-Git%20Azure-black?style=flat-square&logo=azure-devops&logoColor=white)
 
 ### 🙋‍♂️ Connect with me
-📋 See my CV?  [![Linkedin Badge](https://img.shields.io/badge/-Iván%20Gonzalo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ivangonzaloromero/)](https://www.linkedin.com/in/ivangonzaloromero/)
+🔗 📋 See my CV?  [![Linkedin Badge](https://img.shields.io/badge/-Iván%20Gonzalo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ivangonzaloromero/)](https://www.linkedin.com/in/ivangonzaloromero/)
 <br/>
-📬 Any message?  [![Gmail Badge](https://img.shields.io/badge/-igonzaloromero@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igonzaloromero@gmail.com)](mailto:igonzaloromero@gmail.com)
+✉️ 📬 Any message?  [![Gmail Badge](https://img.shields.io/badge/-igonzaloromero@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igonzaloromero@gmail.com)](mailto:igonzaloromero@gmail.com)

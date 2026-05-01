@@ -5,7 +5,7 @@
 <p> 
 ✨ Backend developer based in Gżira, Malta
 <br/>
-🚀 Experience in full-stack development, focused on clean code, databases and continuous improvement!
+🚀 Experience in full-stack development
 </p>
 
 ### 🧠 Backend

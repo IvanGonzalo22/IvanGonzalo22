@@ -24,6 +24,17 @@
 ![PHPUnit](https://img.shields.io/badge/-PHPUnit-black?style=flat-square)
 ![Xdebug](https://img.shields.io/badge/-Xdebug-black?style=flat-square)
 
+
+### 🧭 Current Development Approach
+
+My recent projects follow a lightweight workflow focused on:
+
+- Clear commit messages using tags like `[Feature]`, `[Fix]`, `[Refactor]`, `[Style]`, `[Docs]` and `[Chore]`.
+- Reproducible local setup with documented requirements and setup scripts.
+- Layered code organization inspired by Clean Architecture.
+- Small, explicit implementations to better understand how the application works internally.
+- Public documentation written in English for easier sharing and review.
+
 ### 🧩 Other Experience
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white)

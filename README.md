@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 <p> 
-✨ Backend developer based in Gżira, Malta
+✨ Web developer based in Gżira, Malta
 <br/>
 🚀 Experience in full-stack development
 </p>
